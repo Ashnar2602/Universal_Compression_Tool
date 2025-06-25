@@ -1,0 +1,48 @@
+# Build outputs
+bin/
+obj/
+*.exe
+*.o
+*.obj
+
+# IDE files
+.vscode/
+.vs/
+*.vcxproj.user
+*.sln.user
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# AutoHotkey compiled files
+*.exe.bak
+
+# Settings files (keep template)
+Settings.ini
+
+# Test files
+test_*
+*.iso
+*.bin
+*.img
+*.cso
+*.chd
+
+# Dependencies (will be installed via package manager)
+external/
+libs/
+
+# Backup files
+*.bak
+*~
